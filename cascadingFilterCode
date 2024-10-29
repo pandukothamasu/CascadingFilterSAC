@@ -34,7 +34,7 @@ for (var i=0;i<selections.length;i++){
         Dropdown_SalesManager.addItem(member.id,member.description);	
 }
 
-=========================================================
+==========================================================
 
 4. add below code on second dropdown select
 var sel= Dropdown_SalesManager.getSelectedKey();
